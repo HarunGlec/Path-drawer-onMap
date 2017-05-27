@@ -5,7 +5,11 @@ by using Image Binarization
 
 Description
 ---
-This simple script draws paths on given map by using Image binarization methods. Expected input and output shown below.
+This simple script draws paths on given map as first argument by using Image binarization methods. Expected input and output shown below.
+
+*Usage:*
+
+	$ python PathDrawer.py input_file
 
 **Input**
 
